@@ -10,7 +10,7 @@
 - 💬 Ask me about C++ & ReactJS
 - 📫 Reach me here: varshithasreddy@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy painting 
 - 💻 My Portfolio: https://varshitha1707.github.io/
 
 <p align="center"> <a href="https://twitter.com/varshitha1707" target="blank"><img src="https://img.shields.io/twitter/follow/varshitha1707?logo=twitter&style=for-the-badge" alt="varshitha1707" /></a>  </p>
