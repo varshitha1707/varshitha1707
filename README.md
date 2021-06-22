@@ -38,11 +38,11 @@
 
 <h1 align="center"> Github Stats  </h1>
 
-<p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api?username=varshitha1707&show_icons=truen&icon_color=bb2acf&count_private=true&theme=radical" alt="varshitha1707" /> </p>
-
+<p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api?username=varshitha1707&show_icons=truen&icon_color=bb2acf&count_private=true&theme=algolia&bg_color=0500206A" alt="varshitha1707" /> </p>
+<!-- blueberry_duo&bg_color=151515 -->
 <!--  ![Vari's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshitha1707&show_icons=truen&icon_color=bb2acf&count_private=true&theme=radical)  -->
  
 <!-- <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p> -->
 
-<p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p>
+<p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=varshitha1707&layout=compact&theme=blueberry_duo&background=0500206A&dates=3795DD" alt="varshitha1707" /> </p>
 
