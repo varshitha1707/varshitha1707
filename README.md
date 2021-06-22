@@ -42,11 +42,7 @@
 
 <!--  ![Vari's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshitha1707&show_icons=truen&icon_color=bb2acf&count_private=true&theme=radical)  -->
  
- 
-
-
-
-<p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p>
+<!-- <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p> -->
 
 <p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p>
 
