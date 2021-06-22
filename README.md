@@ -19,6 +19,11 @@
 
 <p align="center"> <a href="mailto:varshithasreddy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/Varshitha1707" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/varshithaa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/varsh.artz/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://varshitha.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> </a> </p>
 
+
+
+
+
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/suprithaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="suprithaa" height="30" width="40" /></a>
@@ -38,4 +43,8 @@
 <!--  ![Vari's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshitha1707&show_icons=truen&icon_color=bb2acf&count_private=true&theme=radical)  -->
  
  
+<p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p>
+
+
 <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha1707&layout=compact&theme=radical" alt="varshitha1707" /> </p>
+
