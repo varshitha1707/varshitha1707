@@ -12,7 +12,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy painting 
 - 💻 My Portfolio: https://varshitha1707.github.io/ 
-- 🍟 My Blog: Coming soon :) 
+- 🍟 My Blog: https://varshitha.hashnode.dev/
 
 <!-- <p align="center"> <a href="https://twitter.com/varshitha1707" target="blank"><img src="https://img.shields.io/twitter/follow/varshitha1707?logo=twitter&style=for-the-badge" alt="varshitha1707" /></a>   </p> -->
 <h2 align = "center" > Find Me Here </h2>
