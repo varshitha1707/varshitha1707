@@ -4,9 +4,9 @@
 **varshitha1707/varshitha1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently a <b> LGM-SOC'21 </b> participant  
-- 🌱 I’m currently learning ReactJS and React Native 
-- 👯 I’m looking to collaborate on Basic HTML/CSS & ReactJS projects <!-- - 🤔 I’m looking for help with ... -->
+- 🔭 I’m very passionate about full stack development 
+- 🌱 I’m currently learning ReactJS & NodeJS
+- 👯 I’m looking to collaborate on ReactJS/Full Stack projects <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about C++ & ReactJS
 - 📫 Reach me here: varshithasreddy@gmail.com 
 - 😄 Pronouns: she/her
