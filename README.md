@@ -5,9 +5,9 @@
 -->
 
 - 🔭 I’m very passionate about full stack development 
-- 🌱 I’m currently learning ReactJS & NodeJS
+- 🌱 I’m currently learning threeJS & Augmented Reality
 - 👯 I’m looking to collaborate on ReactJS/Full Stack projects <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about C++ & ReactJS
+- 💬 Ask me about C++ & ReactJS 
 - 📫 Reach me here: varshithasreddy@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy painting 
